@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T08:08:49.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TVNYEPQeUKs4jhZ9pYaT" version="16.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-30T08:09:44.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tubEdKCWy80Z23ANEFG_" version="16.0.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4121" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3Pa0MBSk1sHGcYQjqzj" name="Page-3">
-    <mxGraphModel dx="2306" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3133" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0xKDLYLlmaIJP9ZLSuCK-0" />
         <mxCell id="0xKDLYLlmaIJP9ZLSuCK-1" parent="0xKDLYLlmaIJP9ZLSuCK-0" />
@@ -464,6 +464,39 @@
         </mxCell>
         <mxCell id="43o_Qo4_LLxcFb3qKtBN-5" value="查看/删除组织资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="43o_Qo4_LLxcFb3qKtBN-4">
           <mxGeometry x="0.462" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qk-xdbuhG7BIUOv7Jrqj-0" value="ResourceService" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="0xKDLYLlmaIJP9ZLSuCK-1">
+          <mxGeometry x="180" y="-10" width="160" height="118" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qk-xdbuhG7BIUOv7Jrqj-1" value="创建资源类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Qk-xdbuhG7BIUOv7Jrqj-0">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Qk-xdbuhG7BIUOv7Jrqj-2" value="查询资源类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="Qk-xdbuhG7BIUOv7Jrqj-0">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-0" value="CdpOrgResourceType" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="0xKDLYLlmaIJP9ZLSuCK-1">
+          <mxGeometry x="-170" y="-20" width="160" height="104" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-1" value="资源" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iYkMRIZCxzLjLmgYsc-b-0">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-2" value="资源名" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="iYkMRIZCxzLjLmgYsc-b-0">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-3" value="组织id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="iYkMRIZCxzLjLmgYsc-b-0">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.981;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0xKDLYLlmaIJP9ZLSuCK-1" source="Qk-xdbuhG7BIUOv7Jrqj-1" target="iYkMRIZCxzLjLmgYsc-b-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iYkMRIZCxzLjLmgYsc-b-5" value="创建/查询资源类&lt;br&gt;型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iYkMRIZCxzLjLmgYsc-b-4">
+          <mxGeometry x="0.1917" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
