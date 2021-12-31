@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T05:54:07.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="muG7NCAn-nP5JnQ-U_-P" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-31T05:55:18.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="i8UBsAv1yI1yk8p-o2Ce" version="16.0.0" type="github" pages="3">
   <diagram id="PBV3H15FlQ33ofz3OErW" name="数据共享类图关系">
     <mxGraphModel dx="2306" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,6 +361,14 @@
         <mxCell id="iCpL8WDvF33WXb4ihM45-59" value="组装所有信息返回给前端展示" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Giw28dYuOWtE-2CCLCwg" name="根据模型id查看已经分享的空间">
+    <mxGraphModel dx="2306" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-dJCyvR9cVxZn2hx2Q_5-0" />
+        <mxCell id="-dJCyvR9cVxZn2hx2Q_5-1" parent="-dJCyvR9cVxZn2hx2Q_5-0" />
       </root>
     </mxGraphModel>
   </diagram>
