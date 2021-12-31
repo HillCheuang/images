@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T06:32:07.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="v9rUOA89Vdt0RrQpp7og" version="16.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-31T06:32:47.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2veyC3xIr3Xr2p_Cl22u" version="16.0.0" type="github" pages="4">
   <diagram id="PBV3H15FlQ33ofz3OErW" name="数据共享类图关系">
     <mxGraphModel dx="2306" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,8 +361,13 @@
         <mxCell id="iCpL8WDvF33WXb4ihM45-59" value="组装所有信息返回给前端展示" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c8uRfmk7FeFMwzjIA9fP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c8uRfmk7FeFMwzjIA9fP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c8uRfmk7FeFMwzjIA9fP-1" value="因为目前默认空间的id为1.工作空间为1 如果两个都为1都代表默认空间，就走data_source表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="660" width="220" height="80" as="geometry" />
+          <mxGeometry x="590" y="660" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
