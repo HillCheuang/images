@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T05:52:14.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qnHwjvHpofaUHcRY1DAw" version="16.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-31T05:52:54.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O88oihLoMM5shcYSohbJ" version="16.0.0" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4121" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -850,6 +850,9 @@
         <mxCell id="smESAuGLw8fvKQImzchm-1" value="根据数据模型的data_source_id去查找cdp_org_resource表中的数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="72c7V5O3KHed114ZvNCN-1">
           <mxGeometry x="827" y="740" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8KNW1WQhnbxwWlmLOSzd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="72c7V5O3KHed114ZvNCN-1" source="8KNW1WQhnbxwWlmLOSzd-1" target="8KNW1WQhnbxwWlmLOSzd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8KNW1WQhnbxwWlmLOSzd-1" value="得到每个模型的字段信息" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="72c7V5O3KHed114ZvNCN-1">
           <mxGeometry x="-50" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -859,8 +862,14 @@
         <mxCell id="8KNW1WQhnbxwWlmLOSzd-3" value="去cdp_data_model_metadata根据model_id和模型对应的工作空间和组织id查询" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="72c7V5O3KHed114ZvNCN-1">
           <mxGeometry x="-380" y="590" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8KNW1WQhnbxwWlmLOSzd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="72c7V5O3KHed114ZvNCN-1" source="8KNW1WQhnbxwWlmLOSzd-8" target="8KNW1WQhnbxwWlmLOSzd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8KNW1WQhnbxwWlmLOSzd-8" value="根据组织资源池type字段来确定数据源类型" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="72c7V5O3KHed114ZvNCN-1">
           <mxGeometry x="285" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8KNW1WQhnbxwWlmLOSzd-12" value="组装所有信息返回给前端展示" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="72c7V5O3KHed114ZvNCN-1">
+          <mxGeometry x="60" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
