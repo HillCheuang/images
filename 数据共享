@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T06:02:58.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3A_Y4l_Chl4lW5tN8-HM" version="16.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-31T06:03:28.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VkddRaUc8S9f-dU2asfx" version="16.0.0" type="github" pages="4">
   <diagram id="PBV3H15FlQ33ofz3OErW" name="数据共享类图关系">
     <mxGraphModel dx="2306" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,7 +433,7 @@
             <mxPoint x="355" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i3bVTRjqS4AqW6_e3nY-1" value="根据datamodelid查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3i3bVTRjqS4AqW6_e3nY-0">
+        <mxCell id="3i3bVTRjqS4AqW6_e3nY-1" value="根据请求用户的工作空间、组织和目标工作空间、组织id以及模型id查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3i3bVTRjqS4AqW6_e3nY-0">
           <mxGeometry x="-0.0406" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
