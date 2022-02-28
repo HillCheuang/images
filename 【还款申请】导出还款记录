@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:34:05.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="mvoDq9qCvcQ_jYMQRr81" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T02:34:53.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="QAmYrdCGWEKmWj1peJ4O" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1351" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,24 +27,27 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="De8a9NVPoJ8lYrGMYEJv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-10" target="De8a9NVPoJ8lYrGMYEJv-1">
+        <mxCell id="De8a9NVPoJ8lYrGMYEJv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="De8a9NVPoJ8lYrGMYEJv-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="340" as="sourcePoint" />
+            <mxPoint x="220" y="450" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-1" value="确认入账" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="400" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="490" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-4" value="还款记录未入账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-1" target="De8a9NVPoJ8lYrGMYEJv-4">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="280" y="220" as="sourcePoint" />
-            <mxPoint x="330" y="220" as="targetPoint" />
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="De8a9NVPoJ8lYrGMYEJv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-10" target="De8a9NVPoJ8lYrGMYEJv-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-10" value="&lt;span&gt;添加还款申请记录（未入账状态）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
@@ -53,13 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-11" value="&lt;span&gt;调用AMC确认入账并在AMC添加操作记录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-12" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-1" target="De8a9NVPoJ8lYrGMYEJv-11">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="230" y="260" as="sourcePoint" />
-            <mxPoint x="230" y="310" as="targetPoint" />
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="230" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-13" target="De8a9NVPoJ8lYrGMYEJv-15">
@@ -79,24 +82,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-13" value="资金入账" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-15" value="资金为未到账" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-19" target="De8a9NVPoJ8lYrGMYEJv-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="980" as="targetPoint" />
+            <mxPoint x="220" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-19" value="调用资AMC中资金到账接口并添加记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-21" value="AMC是资金系统的简称" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="De8a9NVPoJ8lYrGMYEJv-27" value="在报表中添加记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
