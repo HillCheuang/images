@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T03:00:41.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="4zryXXKl32iNosx9UHY2" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T03:00:59.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="cC9SOdz7JWX1uovpqEec" version="16.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1577" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -164,7 +164,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-23" value="  `stream_no`NOT NULL COMMENT &#39;流水号&#39;,&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-21">
+        <mxCell id="9HMFVIbsqTqC8JZsJDIr-23" value="  `serial_no`  NOT NULL COMMENT &#39;交易流水号&#39;,&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-21">
           <mxGeometry x="30" width="320" height="30" as="geometry">
             <mxRectangle width="320" height="30" as="alternateBounds" />
           </mxGeometry>
