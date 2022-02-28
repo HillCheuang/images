@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T03:38:50.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="QowlCeoYd9MWfX7qwwpG" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T03:39:58.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="m8spZb9Zi4qI_diso_wH" version="16.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1607" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -232,54 +232,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-90" value="themis_case(案件数据表)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="350" height="120" as="geometry">
-            <mxRectangle x="120" y="150" width="260" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-91" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-90">
-          <mxGeometry y="30" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-92" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-91">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-93" value="  `id`  COMMENT &#39;案件ID&#39;,&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-91">
-          <mxGeometry x="30" width="320" height="30" as="geometry">
-            <mxRectangle width="320" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-94" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-90">
-          <mxGeometry y="60" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-95" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-94">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-96" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-94">
-          <mxGeometry x="30" width="320" height="30" as="geometry">
-            <mxRectangle width="320" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;shadow=0;sketch=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-90">
-          <mxGeometry y="90" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-98" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;shadow=0;sketch=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-97">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-99" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;shadow=0;sketch=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-97">
-          <mxGeometry x="30" width="320" height="30" as="geometry">
-            <mxRectangle width="320" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9HMFVIbsqTqC8JZsJDIr-105" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9HMFVIbsqTqC8JZsJDIr-87" target="9HMFVIbsqTqC8JZsJDIr-91">
+        <mxCell id="9HMFVIbsqTqC8JZsJDIr-105" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9HMFVIbsqTqC8JZsJDIr-87" target="9HMFVIbsqTqC8JZsJDIr-129">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="200" y="310" as="sourcePoint" />
-            <mxPoint x="39.99999999999977" y="300" as="targetPoint" />
+            <mxPoint x="575" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9HMFVIbsqTqC8JZsJDIr-107" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9HMFVIbsqTqC8JZsJDIr-105">
@@ -289,6 +245,12 @@
         </mxCell>
         <mxCell id="9HMFVIbsqTqC8JZsJDIr-110" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="340" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9HMFVIbsqTqC8JZsJDIr-128" value="themis_case(案件数据表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="9HMFVIbsqTqC8JZsJDIr-129" value="  `id`  COMMENT &#39;案件ID&#39;,&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;shadow=0;sketch=0;" vertex="1" parent="9HMFVIbsqTqC8JZsJDIr-128">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
