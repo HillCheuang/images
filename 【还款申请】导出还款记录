@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:06:05.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="cBi9p72hTAOHOEmYFKP9" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:06:33.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="lje46Q2j1bwyU_0hb-cF" version="16.6.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1261" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,10 +229,10 @@
             <mxPoint x="500" y="439.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xoX1Rb2zWFbGECP9BOp-6" value="资金状态驳回" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
+        <mxCell id="_xoX1Rb2zWFbGECP9BOp-6" value="调用AMC接口，撤销入账" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
           <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_xoX1Rb2zWFbGECP9BOp-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="_xoX1Rb2zWFbGECP9BOp-1" target="_xoX1Rb2zWFbGECP9BOp-6">
+        <mxCell id="_xoX1Rb2zWFbGECP9BOp-8" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="_xoX1Rb2zWFbGECP9BOp-1" target="_xoX1Rb2zWFbGECP9BOp-6">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="370" y="478.67" as="sourcePoint" />
@@ -240,8 +240,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_xoX1Rb2zWFbGECP9BOp-12" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="_xoX1Rb2zWFbGECP9BOp-10" target="_xoX1Rb2zWFbGECP9BOp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_xoX1Rb2zWFbGECP9BOp-10" value="撤销入账" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
           <mxGeometry x="180" y="970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_xoX1Rb2zWFbGECP9BOp-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
+          <mxGeometry x="320" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
