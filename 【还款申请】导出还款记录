@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:20:55.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="kcBtSUsjVIngL6pT2vOa" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T02:29:47.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Ad941sh6Lf86LpXuJ2w5" version="16.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,11 +84,19 @@
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-15" value="资金为未到账" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="De8a9NVPoJ8lYrGMYEJv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="De8a9NVPoJ8lYrGMYEJv-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-19" value="调用资AMC中资金到账接口并添加记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="De8a9NVPoJ8lYrGMYEJv-21" value="AMC是资金系统的简称" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="De8a9NVPoJ8lYrGMYEJv-26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="970" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
