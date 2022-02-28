@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:13:16.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="woFGBOZxwJO2i1KhHy7t" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:13:40.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Ox9Q2bvtQ3dUc0Vhy2Vf" version="16.6.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1455" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,9 @@
             <mxPoint x="594" y="584.3299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EsHQd_HSiPxhoVIB9fmV-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsHQd_HSiPxhoVIB9fmV-61" target="EsHQd_HSiPxhoVIB9fmV-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EsHQd_HSiPxhoVIB9fmV-61" value="调用AMC接口，撤销入账" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="670" width="120" height="60" as="geometry" />
         </mxCell>
@@ -158,6 +161,9 @@
         </mxCell>
         <mxCell id="EsHQd_HSiPxhoVIB9fmV-76" value="在报表中同步数据利用事件同步" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EsHQd_HSiPxhoVIB9fmV-81" value="在报表中同步数据" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
