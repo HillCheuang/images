@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T06:23:19.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2rLPp3GzCIa8is47elR4" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T06:25:07.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="mdQzfO1tLRRLkJZCQlBS" version="16.6.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1261" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,14 +153,11 @@
         <mxCell id="jt3USBX_qH3AEqRqv40j-7" value="确认入账" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
           <mxGeometry x="170" y="400" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jt3USBX_qH3AEqRqv40j-8" value="还款记录未入账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
-          <mxGeometry x="330" y="420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jt3USBX_qH3AEqRqv40j-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="jt3USBX_qH3AEqRqv40j-7" target="jt3USBX_qH3AEqRqv40j-8">
+        <mxCell id="jt3USBX_qH3AEqRqv40j-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="jt3USBX_qH3AEqRqv40j-7">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="280" y="220" as="sourcePoint" />
-            <mxPoint x="330" y="220" as="targetPoint" />
+            <mxPoint x="330" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt3USBX_qH3AEqRqv40j-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="K47p-BX54MQLSgN-hcEQ-1" source="jt3USBX_qH3AEqRqv40j-11">
@@ -218,6 +215,9 @@
         </mxCell>
         <mxCell id="jt3USBX_qH3AEqRqv40j-25" value="AMC是资金系统的简称" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
           <mxGeometry x="560" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_xoX1Rb2zWFbGECP9BOp-1" value="驳回入账" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="K47p-BX54MQLSgN-hcEQ-1">
+          <mxGeometry x="330" y="400" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
