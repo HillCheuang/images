@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T03:18:06.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wXTwniHQadY5JoGf7iRE" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T03:21:09.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="l0c8bXNQbhI32BEpCFZo" version="16.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,20 +19,39 @@
         <mxCell id="8K4hEfSw_JQlsGVW44rP-5" value="访问控制层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="334" y="160" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8K4hEfSw_JQlsGVW44rP-6" target="8K4hEfSw_JQlsGVW44rP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-23" value="发现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8K4hEfSw_JQlsGVW44rP-22">
+          <mxGeometry x="-0.0201" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8K4hEfSw_JQlsGVW44rP-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292" y="280" width="300" height="140" as="geometry" />
+          <mxGeometry x="292" y="280" width="258" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8K4hEfSw_JQlsGVW44rP-8" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="300" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8K4hEfSw_JQlsGVW44rP-17" value="后台服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="68" height="20" as="geometry" />
+          <mxGeometry x="334" y="340" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8K4hEfSw_JQlsGVW44rP-18" value="考试服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="340" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8K4hEfSw_JQlsGVW44rP-19" value="业务处理层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="292" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="8K4hEfSw_JQlsGVW44rP-21" target="8K4hEfSw_JQlsGVW44rP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-25" value="注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8K4hEfSw_JQlsGVW44rP-24">
+          <mxGeometry x="-0.0165" y="-4" relative="1" as="geometry">
+            <mxPoint x="2" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-21" value="Eurka注册小红" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="699" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
