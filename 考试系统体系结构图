@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T03:17:01.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QqmIVUdjbypeLCDw4xX2" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T03:17:21.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="O9OHyvGU3F-V3dpy8Y2k" version="16.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,11 @@
         <mxCell id="8K4hEfSw_JQlsGVW44rP-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="70" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8K4hEfSw_JQlsGVW44rP-3" value="GateWay网关" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-3" value="Zuul网关" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8K4hEfSw_JQlsGVW44rP-5" value="访问控制层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="160" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
