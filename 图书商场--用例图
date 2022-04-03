@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:58:57.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="nPOEkTSlhHAQSLbmyS37" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:00:04.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="eZY3IzC4FYr-WDWdC3wB" version="17.2.4" type="github" pages="3">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,15 +136,6 @@
         <mxCell id="COKdZZ5aVXjxtsOPXbPr-1" value="在线图书销售系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="COKdZZ5aVXjxtsOPXbPr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="COKdZZ5aVXjxtsOPXbPr-2" target="COKdZZ5aVXjxtsOPXbPr-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="250" />
-              <mxPoint x="150" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="COKdZZ5aVXjxtsOPXbPr-2" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
         </mxCell>
@@ -162,42 +153,16 @@
           <mxGeometry x="450" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="COKdZZ5aVXjxtsOPXbPr-11" value="&lt;div&gt;&lt;span&gt;用户信息管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="20" height="140" as="geometry" />
+          <mxGeometry x="150" y="280" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n4gepRVJFzcGSEsONL9O-1" value="&lt;div&gt;&lt;span&gt;书籍类别管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="20" height="140" as="geometry" />
+          <mxGeometry x="200" y="280" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vPyPdmoEqd0xKVdlCol_-1" value="书籍信息管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="20" height="140" as="geometry" />
+          <mxGeometry x="250" y="280" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vPyPdmoEqd0xKVdlCol_-2" value="&lt;div&gt;&lt;span&gt;订单管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="20" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Khu5ySUJ2uDT3feiXreh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="COKdZZ5aVXjxtsOPXbPr-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="targetPoint" />
-            <mxPoint x="260" y="230" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="250" y="250" />
-              <mxPoint x="200" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Khu5ySUJ2uDT3feiXreh-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="vPyPdmoEqd0xKVdlCol_-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="300" as="sourcePoint" />
-            <mxPoint x="250" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Khu5ySUJ2uDT3feiXreh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vPyPdmoEqd0xKVdlCol_-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="targetPoint" />
-            <mxPoint x="250" y="250" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="310" y="250" />
-              <mxPoint x="310" y="280" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
