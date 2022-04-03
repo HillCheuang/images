@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:18:29.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="p4E1_Ktvnikc0aSJAXag" version="17.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:18:47.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="oxZBp6VXFmfuMFMtz7ar" version="17.2.4" type="github" pages="5">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_JNGpvMsm5DCmsryG4pj" name="管理员">
+  <diagram id="_JNGpvMsm5DCmsryG4pj" name="管理员实体属性图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
