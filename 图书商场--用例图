@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:47:25.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="xztfj7oKO0a4r4tkbqG5" version="17.2.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:47:51.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ZgT-VgtJbQ69WeANcuP2" version="17.2.4" type="github" pages="13">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -848,6 +848,9 @@
         <mxCell id="K3SUo7exUH0xVyos7KWh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K3SUo7exUH0xVyos7KWh-9" target="K3SUo7exUH0xVyos7KWh-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K3SUo7exUH0xVyos7KWh-9" target="K3SUo7exUH0xVyos7KWh-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K3SUo7exUH0xVyos7KWh-9" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="100" height="40" as="geometry" />
         </mxCell>
@@ -893,6 +896,15 @@
         </mxCell>
         <mxCell id="K3SUo7exUH0xVyos7KWh-26" value="订单详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K3SUo7exUH0xVyos7KWh-29" target="K3SUo7exUH0xVyos7KWh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-29" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-31" value="地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="30" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
