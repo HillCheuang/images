@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:22:21.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="-WXm2Bcrzvs-VzqNK7on" version="17.2.4" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:22:26.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="_vCKb6hipJyk3oH06c7O" version="17.2.4" type="github" pages="20">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1254,7 +1254,7 @@
         <mxCell id="YxdU7hzpC7TDOxcQ8x2C-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="YxdU7hzpC7TDOxcQ8x2C-3">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-5" value="加入购物车成功" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1" source="YxdU7hzpC7TDOxcQ8x2C-3" target="YxdU7hzpC7TDOxcQ8x2C-2">
+        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-5" value="订单结算成功" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1" source="YxdU7hzpC7TDOxcQ8x2C-3" target="YxdU7hzpC7TDOxcQ8x2C-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="236" as="targetPoint" />
             <Array as="points">
