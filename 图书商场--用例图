@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:31:55.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="rRdRU7VQUmRXCVt8usXc" version="17.2.4" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:33:57.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ZMI8JoYsjOThJ0I7fGui" version="17.2.4" type="github" pages="23">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1374,6 +1374,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-2" value="用户修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-4" target="tJuBPdGy6ZRCTCuYPlob-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-4" value="输入昵称、邮箱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-6" target="tJuBPdGy6ZRCTCuYPlob-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-6" value="头像上传" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-11" target="tJuBPdGy6ZRCTCuYPlob-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-8" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tJuBPdGy6ZRCTCuYPlob-7">
+          <mxGeometry x="0.0222" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-11" target="tJuBPdGy6ZRCTCuYPlob-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-10" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tJuBPdGy6ZRCTCuYPlob-9">
+          <mxGeometry x="0.1" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-11" value="头像上传校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-12" value="修改个人信息成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJuBPdGy6ZRCTCuYPlob-14" target="tJuBPdGy6ZRCTCuYPlob-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJuBPdGy6ZRCTCuYPlob-14" value="重新上传头像" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
