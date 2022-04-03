@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:21:28.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="fwTqaXnjIrJch4g2vmF6" version="17.2.4" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:22:21.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="-WXm2Bcrzvs-VzqNK7on" version="17.2.4" type="github" pages="20">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1283,18 +1283,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YxdU7hzpC7TDOxcQ8x2C-11" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="650" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="YxdU7hzpC7TDOxcQ8x2C-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="YxdU7hzpC7TDOxcQ8x2C-11">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-13" value="计算小记并添加记录" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="YxdU7hzpC7TDOxcQ8x2C-11">
+        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-13" value="将购物车所选清除并数据库存-1" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="YxdU7hzpC7TDOxcQ8x2C-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="200" as="sourcePoint" />
             <mxPoint x="610" y="200.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-14" value="数据库添加成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="YxdU7hzpC7TDOxcQ8x2C-12" target="YxdU7hzpC7TDOxcQ8x2C-9">
+        <mxCell id="YxdU7hzpC7TDOxcQ8x2C-14" value="事务操作成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="YxdU7hzpC7TDOxcQ8x2C-12" target="YxdU7hzpC7TDOxcQ8x2C-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YxdU7hzpC7TDOxcQ8x2C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="YxdU7hzpC7TDOxcQ8x2C-9" target="YxdU7hzpC7TDOxcQ8x2C-4">
