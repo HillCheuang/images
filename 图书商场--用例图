@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:07:17.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="wN3uSF2Lzisz7C-M_vOL" version="17.2.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:08:45.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="FNNC3I4CrW3-YsXYzD9B" version="17.2.4" type="github" pages="16">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -967,8 +967,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-1" target="fZeky5ywCbC3l6myAQAJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fZeky5ywCbC3l6myAQAJ-1" value="用户忘记密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-2" target="fZeky5ywCbC3l6myAQAJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-2" value="输入账号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-4" target="fZeky5ywCbC3l6myAQAJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-4" value="发送邮箱验证吗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-6" target="fZeky5ywCbC3l6myAQAJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="540" />
+              <mxPoint x="430" y="390" />
+              <mxPoint x="341" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-10" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fZeky5ywCbC3l6myAQAJ-9">
+          <mxGeometry x="0.0122" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-6" target="fZeky5ywCbC3l6myAQAJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fZeky5ywCbC3l6myAQAJ-12">
+          <mxGeometry x="-0.3778" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-6" value="邮箱验证吗是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="500" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-11" value="重置密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
