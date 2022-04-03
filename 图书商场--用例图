@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:42:06.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="nOnizlYKXfgxV_AzWdwU" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T12:42:14.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="i-1CMoL5sikHdrijJgZo" version="17.2.4" type="github" pages="2">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,13 +28,10 @@
             <mxPoint x="423.4577374381395" y="186.70993603352144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QEq4kKPri93AXazskqrq-12" value="查看购物车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="210" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="QEq4kKPri93AXazskqrq-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="QEq4kKPri93AXazskqrq-12">
+        <mxCell id="QEq4kKPri93AXazskqrq-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_4pl8JjLDKr7ejRkUpVi-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="230" as="sourcePoint" />
-            <mxPoint x="335.4656046272851" y="250.00453294772623" as="targetPoint" />
+            <mxPoint x="414.29532078196826" y="241.53167838567447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QEq4kKPri93AXazskqrq-16" value="管理订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,7 +68,7 @@
           <mxGeometry x="435" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-5" value="查看购物车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="150" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
