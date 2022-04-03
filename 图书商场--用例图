@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:02:33.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="eTWJ3b-CVMO2MLXXcM_R" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:03:02.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="HTziFcdgE54GvvTVoOzy" version="17.2.4" type="github" pages="3">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XTt2q4m3AIQdQPkskLbN" name="平台功能结构图">
-    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,11 +136,12 @@
         <mxCell id="COKdZZ5aVXjxtsOPXbPr-1" value="在线图书销售系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Khu5ySUJ2uDT3feiXreh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="COKdZZ5aVXjxtsOPXbPr-2" target="COKdZZ5aVXjxtsOPXbPr-11">
+        <mxCell id="Khu5ySUJ2uDT3feiXreh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="COKdZZ5aVXjxtsOPXbPr-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="240" as="targetPoint" />
+            <mxPoint x="240" y="230" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="250" y="240" />
+              <mxPoint x="240" y="240" />
               <mxPoint x="160" y="240" />
             </Array>
           </mxGeometry>
@@ -178,7 +179,7 @@
             <mxPoint x="210" y="270" as="targetPoint" />
             <mxPoint x="260" y="230" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="250" y="240" />
+              <mxPoint x="240" y="240" />
               <mxPoint x="210" y="240" />
             </Array>
           </mxGeometry>
@@ -188,7 +189,8 @@
             <mxPoint x="220" y="290" as="targetPoint" />
             <mxPoint x="250" y="220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="250" y="240" />
+              <mxPoint x="240" y="220" />
+              <mxPoint x="240" y="240" />
               <mxPoint x="260" y="240" />
             </Array>
           </mxGeometry>
