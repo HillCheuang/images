@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:31:56.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="WIIwkJc_4FsL3T7oV7oY" version="17.2.4" type="github" pages="8">
-  <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:32:55.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="SRHqxd6LaJmaphkqg1KG" version="17.2.4" type="github" pages="9">
+  <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -73,7 +73,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KEiEKF9sBu-_SdCJTesf" name="Page-2">
+  <diagram id="KEiEKF9sBu-_SdCJTesf" name="管理员用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -573,6 +573,14 @@
             <mxPoint x="665.4331509042167" y="223.00114074643488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FWuFSH-FvCTuSoxZniVY" name="购物车实体类">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
