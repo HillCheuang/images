@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:43:12.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pQa0i8diJ5UgQK3ov8q5" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T12:44:57.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MjZ2rRNJZWZOgc2iHT84" version="17.2.4" type="github" pages="2">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="190" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEq4kKPri93AXazskqrq-3" value="用户登陆、注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEq4kKPri93AXazskqrq-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QEq4kKPri93AXazskqrq-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,23 +52,23 @@
             <mxPoint x="404.0500660209043" y="453.44279385456696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_4pl8JjLDKr7ejRkUpVi-3" value="查看书籍类吧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="70" width="100" height="60" as="geometry" />
+        <mxCell id="_4pl8JjLDKr7ejRkUpVi-3" value="查看书籍类别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-4" value="查看书籍列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="150" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-5" value="查看购物车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-8" value="管理订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-9" value="管理收获地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4pl8JjLDKr7ejRkUpVi-11" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="430" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
