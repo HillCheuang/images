@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:19:00.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vvMhu5Is_ohwcLBt3A6S" version="17.2.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:20:52.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="9irY2AortxECze2unpA9" version="17.2.4" type="github" pages="19">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1159,6 +1159,77 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBad0UHYfQfLgx_fGbFl-24" value="回送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBad0UHYfQfLgx_fGbFl-23">
+          <mxGeometry x="0.1692" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IzYJScPDMvsRRlo_ZzuN" name="加入购物车时序图">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UNywrdOBetcsrR8zOGS8-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="UNywrdOBetcsrR8zOGS8-1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-3" value="前端页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="UNywrdOBetcsrR8zOGS8-3">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-5" value="加入购物车成功" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1" source="UNywrdOBetcsrR8zOGS8-3" target="UNywrdOBetcsrR8zOGS8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-6" value="加入购物车" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1" source="UNywrdOBetcsrR8zOGS8-2" target="UNywrdOBetcsrR8zOGS8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-8" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="UNywrdOBetcsrR8zOGS8-8">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-10" value="发送请求" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="UNywrdOBetcsrR8zOGS8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="100" as="sourcePoint" />
+            <mxPoint x="40" y="100.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-11" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="UNywrdOBetcsrR8zOGS8-11">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-13" value="计算小记并添加记录" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="UNywrdOBetcsrR8zOGS8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="610" y="200.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-14" value="数据库添加成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="UNywrdOBetcsrR8zOGS8-12" target="UNywrdOBetcsrR8zOGS8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="UNywrdOBetcsrR8zOGS8-9" target="UNywrdOBetcsrR8zOGS8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNywrdOBetcsrR8zOGS8-16" value="回送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNywrdOBetcsrR8zOGS8-15">
           <mxGeometry x="0.1692" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
