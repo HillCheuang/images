@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:42:08.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="h7Kd7jVof81sG7qClqGb" version="17.2.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:44:35.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="mHEQViZG32YtyDrc7Uas" version="17.2.4" type="github" pages="13">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -814,6 +814,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K3SUo7exUH0xVyos7KWh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K3SUo7exUH0xVyos7KWh-1" target="K3SUo7exUH0xVyos7KWh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-4" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K3SUo7exUH0xVyos7KWh-3">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-1" value="图书类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K3SUo7exUH0xVyos7KWh-2" target="K3SUo7exUH0xVyos7KWh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-7" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K3SUo7exUH0xVyos7KWh-6">
+          <mxGeometry x="0.1" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-2" value="属于" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K3SUo7exUH0xVyos7KWh-5" value="图书书籍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
