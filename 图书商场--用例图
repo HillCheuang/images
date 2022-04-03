@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:40:30.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="lbs0cxyQR3A3HWTDbXgG" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T12:40:36.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="DNnZJLrUmId37cKkVlvj" version="17.2.4" type="github" pages="2">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="1183" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sh0a4JWEK3IFv7qGvW8C-3" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sh0a4JWEK3IFv7qGvW8C-4" value="图书信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="100" height="60" as="geometry" />
