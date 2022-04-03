@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:09:06.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="EDxVEShn0qmTwoJ1qYYE" version="17.2.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:10:12.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="A5WBFsO1TIWNgjtOcRSs" version="17.2.4" type="github" pages="16">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -990,8 +990,7 @@
             <mxPoint x="460" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="540" />
-              <mxPoint x="430" y="390" />
-              <mxPoint x="341" y="390" />
+              <mxPoint x="430" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1017,8 +1016,39 @@
         <mxCell id="fZeky5ywCbC3l6myAQAJ-11" value="重置密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-14" target="fZeky5ywCbC3l6myAQAJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fZeky5ywCbC3l6myAQAJ-14" value="确认密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-16" target="fZeky5ywCbC3l6myAQAJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="980" />
+              <mxPoint x="380" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-19" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fZeky5ywCbC3l6myAQAJ-18">
+          <mxGeometry x="0.1053" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fZeky5ywCbC3l6myAQAJ-16" target="fZeky5ywCbC3l6myAQAJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-22" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fZeky5ywCbC3l6myAQAJ-21">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-16" value="密码确认" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fZeky5ywCbC3l6myAQAJ-20" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
