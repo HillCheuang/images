@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:56:18.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="f2zBmqwltBnEq7nIoeZT" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-03T12:56:51.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="UpBRl6dZBFod6p7vbBGS" version="17.2.4" type="github" pages="3">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,6 +166,12 @@
         </mxCell>
         <mxCell id="n4gepRVJFzcGSEsONL9O-1" value="&lt;div&gt;&lt;span&gt;书籍类别管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vPyPdmoEqd0xKVdlCol_-1" value="书籍信息管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vPyPdmoEqd0xKVdlCol_-2" value="&lt;div&gt;&lt;span&gt;订单管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="20" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
