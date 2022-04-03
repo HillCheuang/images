@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T12:45:04.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="6CWcRnubna1A8UQrzGVS" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-03T12:49:40.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="osF_Vpf2BnOzFMLKbbKO" version="17.2.4" type="github" pages="2">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="Page-1">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,35 +78,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="30" height="60" as="geometry" />
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-16" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sh0a4JWEK3IFv7qGvW8C-1" target="Sh0a4JWEK3IFv7qGvW8C-3">
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-17" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8G-jLjaeVhR96XpqPBMm-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="220" as="sourcePoint" />
-            <mxPoint x="270" y="160" as="targetPoint" />
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="260" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-3" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-4" value="图书信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Sh0a4JWEK3IFv7qGvW8C-4">
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8G-jLjaeVhR96XpqPBMm-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="sourcePoint" />
-            <mxPoint x="290" y="170" as="targetPoint" />
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="450.7624646439451" y="135.79692897216944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-6" value="图书类别管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Sh0a4JWEK3IFv7qGvW8C-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Sh0a4JWEK3IFv7qGvW8C-6">
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8G-jLjaeVhR96XpqPBMm-16" target="8G-jLjaeVhR96XpqPBMm-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="180" as="sourcePoint" />
-            <mxPoint x="324.6446609406728" y="188.78679656440363" as="targetPoint" />
+            <mxPoint x="240" y="240" as="sourcePoint" />
+            <mxPoint x="433.4577374381395" y="196.70993603352144" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8G-jLjaeVhR96XpqPBMm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="424.29532078196826" y="251.53167838567447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-25" value="书籍类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-26" value="书籍信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8G-jLjaeVhR96XpqPBMm-27" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
