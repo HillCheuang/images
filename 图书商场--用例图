@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:18:42.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="js73Y182RAt4KsQvBIqD" version="17.2.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:19:00.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vvMhu5Is_ohwcLBt3A6S" version="17.2.4" type="github" pages="18">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1106,7 +1106,7 @@
         <mxCell id="pBad0UHYfQfLgx_fGbFl-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pBad0UHYfQfLgx_fGbFl-2">
           <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="pBad0UHYfQfLgx_fGbFl-6" value="页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pBad0UHYfQfLgx_fGbFl-6" value="前端页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="pBad0UHYfQfLgx_fGbFl-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pBad0UHYfQfLgx_fGbFl-6">
