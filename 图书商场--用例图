@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:30:22.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="QUmaNWH-chh3THfOYPUu" version="17.4.0" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-04-04T11:30:46.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="u1n_0I5kuYdSZVbHJzHC" version="17.4.0" type="github" pages="24">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1553,7 +1553,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zIix9_1lWNmieRj8MkmG" name="Page-24">
+  <diagram id="zIix9_1lWNmieRj8MkmG" name="修改用户信息">
     <mxGraphModel dx="946" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
