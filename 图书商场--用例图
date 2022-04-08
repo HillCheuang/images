@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:30:46.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="hHbz_Nc9Iy5rPQJmlgUp" version="17.4.0" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:31:20.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="uLm2mUCTh-AITLIQQYWT" version="17.4.0" type="github" pages="33">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2148,22 +2148,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-1" value="订单详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-1" value="试卷信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-2" value="&lt;u&gt;订单编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-2" value="&lt;u&gt;试卷编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-3" value="订单流水号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-3" value="试题编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-4" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-4" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="20" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-5" value="总金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-5" value="班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-6" value="地址编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-6" value="考试时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="10" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jrj2sqkTRJnqr1piZg8y-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jrj2sqkTRJnqr1piZg8y-1" target="jrj2sqkTRJnqr1piZg8y-5">
@@ -2196,10 +2196,10 @@
             <mxPoint x="665.4331509042167" y="223.00114074643488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-12" value="订单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-12" value="管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="130" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrj2sqkTRJnqr1piZg8y-13" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrj2sqkTRJnqr1piZg8y-13" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jrj2sqkTRJnqr1piZg8y-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrj2sqkTRJnqr1piZg8y-1" target="jrj2sqkTRJnqr1piZg8y-12">
