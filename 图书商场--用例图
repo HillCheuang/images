@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:11:31.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="GFRA74Sk3tOjREkp3-t6" version="17.4.0" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:11:43.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="lxoCtUaOu0hwuhJ-mpxy" version="17.4.0" type="github" pages="29">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1800,10 +1800,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MNFW7lDl75D4eUQmAJHi-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MNFW7lDl75D4eUQmAJHi-1" value="考生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNFW7lDl75D4eUQmAJHi-2" value="&lt;u&gt;学生编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MNFW7lDl75D4eUQmAJHi-2" value="&lt;u&gt;考生编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="240" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MNFW7lDl75D4eUQmAJHi-3" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
