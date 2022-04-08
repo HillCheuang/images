@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:06:53.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vw5I3X4G2Bqvro9DfF1R" version="17.4.0" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:07:38.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="QdjkxzCpclj_DxkxY-RI" version="17.4.0" type="github" pages="28">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1746,7 +1746,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y5h21At3BCgPd5g9tY3W" name="管理员实体类">
-    <mxGraphModel dx="1773" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1754,7 +1754,7 @@
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8d3vaRZ0gI8MJtXW-pv-2" value="&lt;u&gt;用户编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="270" width="110" height="60" as="geometry" />
+          <mxGeometry x="50" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8d3vaRZ0gI8MJtXW-pv-3" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="110" height="60" as="geometry" />
