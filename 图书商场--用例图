@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:14:22.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="hUUPFQv9l5kmV1-1Fw7m" version="17.4.0" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:15:16.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="sOXyDBZ3DUCEkdqvgRpU" version="17.4.0" type="github" pages="30">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1917,16 +1917,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="05DJ2URfLoDhI-k9TRli-1" value="商品收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="05DJ2URfLoDhI-k9TRli-1" value="课程信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05DJ2URfLoDhI-k9TRli-2" value="&lt;u&gt;商品收藏编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="05DJ2URfLoDhI-k9TRli-2" value="&lt;u&gt;课程编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05DJ2URfLoDhI-k9TRli-3" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="05DJ2URfLoDhI-k9TRli-3" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05DJ2URfLoDhI-k9TRli-4" value="书籍编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="05DJ2URfLoDhI-k9TRli-4" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05DJ2URfLoDhI-k9TRli-5" value="收藏时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
