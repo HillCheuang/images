@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T05:17:32.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1VbFBNzniBUA_DuUR3ag" version="17.4.6" type="github" pages="38">
+<mxfile host="app.diagrams.net" modified="2022-04-29T05:20:10.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="u7snK8b3N4trqlBWitIh" version="17.4.6" type="github" pages="38">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3029,13 +3029,13 @@
           <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AydcvkqY1S5cQZo-ksgu-1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-3" value="忘记密码页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AydcvkqY1S5cQZo-ksgu-3">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-5" value="用户收到验证码" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1" source="AydcvkqY1S5cQZo-ksgu-3" target="AydcvkqY1S5cQZo-ksgu-2">
           <mxGeometry relative="1" as="geometry">
@@ -3060,7 +3060,7 @@
           <mxGeometry x="440" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AydcvkqY1S5cQZo-ksgu-8">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-10" value="后端进行校验" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="AydcvkqY1S5cQZo-ksgu-8">
           <mxGeometry relative="1" as="geometry">
@@ -3074,20 +3074,32 @@
             <mxPoint x="34" y="210.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="97rSo2B9QNjp0MCq7S1l-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="AydcvkqY1S5cQZo-ksgu-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="270" as="sourcePoint" />
+            <mxPoint x="55" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="270" />
+              <mxPoint x="100" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97rSo2B9QNjp0MCq7S1l-7" value="发送验证码到邮箱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="97rSo2B9QNjp0MCq7S1l-6">
+          <mxGeometry x="0.1692" y="-4" relative="1" as="geometry">
+            <mxPoint x="21" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-11" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AydcvkqY1S5cQZo-ksgu-11">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="140" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="AydcvkqY1S5cQZo-ksgu-13" value="提交给数据库" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="AydcvkqY1S5cQZo-ksgu-11">
+        <mxCell id="97rSo2B9QNjp0MCq7S1l-4" value="修改密码" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="AydcvkqY1S5cQZo-ksgu-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="200" as="sourcePoint" />
-            <mxPoint x="610" y="200.0000000000001" as="targetPoint" />
+            <mxPoint x="-95" y="229.5" as="sourcePoint" />
+            <mxPoint x="40.5" y="229.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AydcvkqY1S5cQZo-ksgu-14" value="数据库添加成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="AydcvkqY1S5cQZo-ksgu-12" target="AydcvkqY1S5cQZo-ksgu-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AydcvkqY1S5cQZo-ksgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="AydcvkqY1S5cQZo-ksgu-9" target="AydcvkqY1S5cQZo-ksgu-4">
           <mxGeometry relative="1" as="geometry">
