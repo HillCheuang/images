@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T03:56:56.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="m4Yu7t7l9S_B76aLnrrV" version="17.4.6" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2022-04-29T03:57:23.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_CteOCSiA6C8XwJ3Il_G" version="17.4.6" type="github" pages="34">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,10 +127,10 @@
           <mxGeometry x="450" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQLD0DHsPgRNlizplqYR-14" value="管理收货地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="410" width="100" height="60" as="geometry" />
+          <mxGeometry x="450" y="470" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQLD0DHsPgRNlizplqYR-15" value="信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="585" width="100" height="60" as="geometry" />
+          <mxGeometry x="450" y="630" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQLD0DHsPgRNlizplqYR-19" value="" style="endArrow=open;dashed=1;html=1;rounded=0;endFill=0;" edge="1" parent="1" source="qQLD0DHsPgRNlizplqYR-10" target="qQLD0DHsPgRNlizplqYR-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -247,14 +247,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcnVzDdpjruaWD6uSNe1-28" value="查询订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="490" width="100" height="60" as="geometry" />
+        <mxCell id="JcnVzDdpjruaWD6uSNe1-28" value="查询收货地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sH6rzw4hEi_HAv6RuRTs-1" value="修改收货地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="555" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KEiEKF9sBu-_SdCJTesf" name="管理员用例图">
-    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -813,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ba4WMCs-q2GcGYCGgxzy" name="商品收藏实体类">
-    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
