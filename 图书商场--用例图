@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T04:30:46.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xkBxJYa6astN_5zvH55p" version="17.4.6" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2022-04-29T04:31:11.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jo73MdTSj8emZ_eUQjFg" version="17.4.6" type="github" pages="36">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2739,8 +2739,16 @@
         <mxCell id="r9_vj-fxXW7FFBBaFSxq-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="50" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r9_vj-fxXW7FFBBaFSxq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="r9_vj-fxXW7FFBBaFSxq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r9_vj-fxXW7FFBBaFSxq-4" value="是否修改个人信息" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="135" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r9_vj-fxXW7FFBBaFSxq-8" value="个人信息编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
