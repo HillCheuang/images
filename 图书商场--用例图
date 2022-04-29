@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T04:59:04.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="g4zeEbnMJwtt4JYoCtcf" version="17.4.6" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2022-04-29T04:59:22.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rYi-X9wpihRil7IXkxR1" version="17.4.6" type="github" pages="36">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2763,8 +2763,14 @@
         <mxCell id="r9_vj-fxXW7FFBBaFSxq-8" value="个人信息编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ucYtB31XpQ9_-_bz9J7Y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="r9_vj-fxXW7FFBBaFSxq-11" target="ucYtB31XpQ9_-_bz9J7Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r9_vj-fxXW7FFBBaFSxq-11" value="是否添加购物车" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucYtB31XpQ9_-_bz9J7Y-4" value="个人信息编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="320" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
