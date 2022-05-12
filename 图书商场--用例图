@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:12:35.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GuJtLAsGKYEMJY8CMk8O" version="17.5.1" type="github" pages="39">
+<mxfile host="app.diagrams.net" modified="2022-05-12T14:43:33.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Bb9SJjVjIVfGj6uf5zKt" version="17.5.1" type="github" pages="39">
   <diagram id="GS-UODhxrj_hKFhlqVoU" name="用户用例图">
     <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1324,7 +1324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qfylbpRxhXSKrqFdQ7Kz" name="管理员登陆流程图">
-    <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,8 +1345,18 @@
         <mxCell id="aSl_PSuXkl48r43IS2S8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="aSl_PSuXkl48r43IS2S8-3" target="aSl_PSuXkl48r43IS2S8-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YLCymk2UojCzafQJ7FyO-2" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aSl_PSuXkl48r43IS2S8-9">
+          <mxGeometry x="-0.5" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aSl_PSuXkl48r43IS2S8-3" value="用户名密码是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YLCymk2UojCzafQJ7FyO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aSl_PSuXkl48r43IS2S8-5" target="YLCymk2UojCzafQJ7FyO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aSl_PSuXkl48r43IS2S8-5" value="登陆成功" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
@@ -1362,11 +1372,20 @@
         <mxCell id="aSl_PSuXkl48r43IS2S8-8" value="重新输入" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YLCymk2UojCzafQJ7FyO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLCymk2UojCzafQJ7FyO-1" target="aSl_PSuXkl48r43IS2S8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YLCymk2UojCzafQJ7FyO-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLCymk2UojCzafQJ7FyO-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="7zjqD7gI_5IEPbXZHtX9" name="忘记密码">
-    <mxGraphModel dx="1577" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
