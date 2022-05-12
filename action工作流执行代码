@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:25:32.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5TYl6muNbRIALiIdQlOo" version="17.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:26:08.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6ARllQGWl5-mTDMB7lrQ" version="17.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,8 +105,11 @@
         <mxCell id="s0_HNIoghs2FhUvwrj9D-4" value="试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s0_HNIoghs2FhUvwrj9D-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="s0_HNIoghs2FhUvwrj9D-5" target="s0_HNIoghs2FhUvwrj9D-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s0_HNIoghs2FhUvwrj9D-5" value="考试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0_HNIoghs2FhUvwrj9D-6" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="190" width="120" height="60" as="geometry" />
@@ -157,6 +160,12 @@
         </mxCell>
         <mxCell id="s0_HNIoghs2FhUvwrj9D-23" value="属于" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0_HNIoghs2FhUvwrj9D-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="s0_HNIoghs2FhUvwrj9D-30" target="s0_HNIoghs2FhUvwrj9D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0_HNIoghs2FhUvwrj9D-30" value="产生" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
