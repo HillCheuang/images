@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T01:32:53.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="k8kpgclKs_BaIdplgbJl" version="18.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-16T01:33:12.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ewxu5eviViJbamp6Z228" version="18.0.3" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,8 +94,20 @@
         <mxCell id="cr5zFeADnxzQ1spqYGSM-7" value="进入考试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cr5zFeADnxzQ1spqYGSM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cr5zFeADnxzQ1spqYGSM-9" target="cr5zFeADnxzQ1spqYGSM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cr5zFeADnxzQ1spqYGSM-9" value="考试作答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cr5zFeADnxzQ1spqYGSM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cr5zFeADnxzQ1spqYGSM-11" target="cr5zFeADnxzQ1spqYGSM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cr5zFeADnxzQ1spqYGSM-11" value="交卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cr5zFeADnxzQ1spqYGSM-13" value="是否退出" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
