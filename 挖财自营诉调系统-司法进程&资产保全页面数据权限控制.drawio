@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:25:15.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SsVe2hsflSC6F-s9tIiI" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:26:14.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9i1xx3OYrbmIpdcCJJ96" version="20.0.1" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="单条记录">
     <mxGraphModel dx="951" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o_dDMDS5-6yDOPdR2BQt" name="批量操作">
-    <mxGraphModel dx="1426" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-12" value="根据cid、sn查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-11">
+        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-12" value="查询相关操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-11">
           <mxGeometry x="0.0826" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -255,7 +255,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-14" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;利用mybatis-plus插件&lt;br&gt;拼接上court_code in (xxx)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-13">
+        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-14" value="&lt;font&gt;&lt;br&gt;利用mybatis-plus插件&lt;br&gt;拼接上court_code in (xxx)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-13">
           <mxGeometry x="-0.3477" y="-2" relative="1" as="geometry">
             <mxPoint x="33" y="-28" as="offset" />
           </mxGeometry>
@@ -263,7 +263,7 @@
         <mxCell id="OZaMGHCpha3dbO1mzQ3Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" source="OZaMGHCpha3dbO1mzQ3Z-10" target="OZaMGHCpha3dbO1mzQ3Z-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-16" value="数据权限控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#FF0000;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-15">
+        <mxCell id="OZaMGHCpha3dbO1mzQ3Z-16" value="数据权限控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="OZaMGHCpha3dbO1mzQ3Z-15">
           <mxGeometry x="0.0999" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -283,6 +283,9 @@
               <mxPoint x="300" y="230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hnm7GL3hyvlAkiOaKfPX-1" value="&lt;font color=&quot;#ff0000&quot;&gt;校验相关数据权限&lt;br&gt;若无权限则报错&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250.00324269649866" y="179.99702702702697" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
