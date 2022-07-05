@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T11:08:39.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rKP8ooxTGX-T_7PO-Ydb" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-05T11:08:49.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tz_roBDQOhcxdTXqO6Sd" version="20.0.4" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="单条记录">
     <mxGraphModel dx="2090" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,18 +65,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l81Vc26us2J2Qerfzua-6" value="&lt;font color=&quot;#ff0000&quot;&gt;若单表查询需要join case表过滤&lt;br&gt;mybatis-plus插件&lt;br&gt;拼接上court_code in (xxx)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="8l81Vc26us2J2Qerfzua-1" vertex="1" connectable="0">
-          <mxGeometry x="-0.3477" y="-2" relative="1" as="geometry">
-            <mxPoint x="33" y="-28" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8l81Vc26us2J2Qerfzua-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FF0000;" parent="1" source="SE7JAbUPpJ-5eUO7LKqL-14" target="SE7JAbUPpJ-5eUO7LKqL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8l81Vc26us2J2Qerfzua-12" value="过滤单条数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#FF0000;" parent="8l81Vc26us2J2Qerfzua-10" vertex="1" connectable="0">
-          <mxGeometry x="0.0999" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8l81Vc26us2J2Qerfzua-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#FF0000;" parent="1" source="SE7JAbUPpJ-5eUO7LKqL-12" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +94,7 @@
           <mxGeometry x="690" y="70" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FtKNyufiXCwTpfJjdmEQ-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FtKNyufiXCwTpfJjdmEQ-5">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FtKNyufiXCwTpfJjdmEQ-7" value="&lt;font color=&quot;#000000&quot;&gt;返回数据&lt;br&gt;并销毁上下文&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
