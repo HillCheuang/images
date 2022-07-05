@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T11:08:49.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tz_roBDQOhcxdTXqO6Sd" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-05T11:09:18.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LB1g2O8xOG4LqRg82gFI" version="20.0.4" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="单条记录">
     <mxGraphModel dx="2090" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l81Vc26us2J2Qerfzua-2" value="根据cid、sn查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="SE7JAbUPpJ-5eUO7LKqL-18" vertex="1" connectable="0">
+        <mxCell id="8l81Vc26us2J2Qerfzua-2" value="若sn不存在则报案件不存在&lt;br&gt;若没有权限则报该案件没有权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="SE7JAbUPpJ-5eUO7LKqL-18" vertex="1" connectable="0">
           <mxGeometry x="0.0826" y="2" relative="1" as="geometry">
             <mxPoint x="-4" y="-18" as="offset" />
           </mxGeometry>
