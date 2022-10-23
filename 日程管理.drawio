@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T09:30:22.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CG1mF5rJ_xD0My06wF-z" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-23T09:32:29.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gjVRfL3mUXnrc3H7HmOQ" version="20.3.6" type="github" pages="2">
   <diagram id="MAB1h8szgi0ODXyEpnny" name="添加重复日程">
-    <mxGraphModel dx="882" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1089" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,11 +72,76 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X82w-gaMkFgjlHrBTXcI" name="第 2 页">
+  <diagram id="X82w-gaMkFgjlHrBTXcI" name="提醒日程">
     <mxGraphModel dx="926" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-2" target="V8PgLpUywQVGaDF0U4Zf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-4" target="V8PgLpUywQVGaDF0U4Zf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-4" value="填写日程相关信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-7" target="V8PgLpUywQVGaDF0U4Zf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-6" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V8PgLpUywQVGaDF0U4Zf-5">
+          <mxGeometry x="-0.7211" y="2" relative="1" as="geometry">
+            <mxPoint x="-52" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-7" value="判断是否重复日程" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="500" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-9" target="V8PgLpUywQVGaDF0U4Zf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-9" value="添加重复日程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-11" target="V8PgLpUywQVGaDF0U4Zf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-11" value="添加单次日程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-7" target="V8PgLpUywQVGaDF0U4Zf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="580" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="620" />
+              <mxPoint x="360" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-13" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V8PgLpUywQVGaDF0U4Zf-12">
+          <mxGeometry x="0.1749" y="2" relative="1" as="geometry">
+            <mxPoint x="6" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-15" target="V8PgLpUywQVGaDF0U4Zf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-15" value="将相关基本信息插入日程表&lt;br&gt;将重复信息插入重复表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8PgLpUywQVGaDF0U4Zf-17" target="V8PgLpUywQVGaDF0U4Zf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-17" value="将相关基本信息插入日程表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8PgLpUywQVGaDF0U4Zf-18" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
