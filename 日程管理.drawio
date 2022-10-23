@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T09:34:27.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RJLf5ucMtjU_-4o8qCzc" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-23T09:35:00.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FEVqRfMWE58XCrqM2ial" version="20.3.6" type="github" pages="2">
   <diagram id="MAB1h8szgi0ODXyEpnny" name="添加重复日程">
     <mxGraphModel dx="926" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,14 +27,18 @@
         <mxCell id="XIn_PPfGevVVOircJP2H-6" value="判断是否重复/提醒日程" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="500" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-8" target="XIn_PPfGevVVOircJP2H-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XIn_PPfGevVVOircJP2H-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XIn_PPfGevVVOircJP2H-8" value="添加重复日程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-11" target="XIn_PPfGevVVOircJP2H-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XIn_PPfGevVVOircJP2H-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XIn_PPfGevVVOircJP2H-11" value="添加单次日程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="660" width="120" height="60" as="geometry" />
@@ -54,20 +58,11 @@
             <mxPoint x="6" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-16" target="XIn_PPfGevVVOircJP2H-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KkjwsZzoR1TUCXtXT1C1-1" value="是否提醒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-16" value="将相关基本信息插入日程表&lt;br&gt;将重复信息插入重复表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIn_PPfGevVVOircJP2H-18" target="XIn_PPfGevVVOircJP2H-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-18" value="将相关基本信息插入日程表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XIn_PPfGevVVOircJP2H-20" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="KkjwsZzoR1TUCXtXT1C1-2" value="是否提醒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
