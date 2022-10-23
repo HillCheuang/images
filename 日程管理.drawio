@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T09:29:16.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FJya-TGziBSDyBrOm4PD" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-23T09:30:04.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GzYYIeiNqw-jcHgH2bLA" version="20.3.6" type="github" pages="2">
   <diagram id="MAB1h8szgi0ODXyEpnny" name="添加日程">
-    <mxGraphModel dx="926" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="579" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,44 +77,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="psYosJyBUwSq0_T046JI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="psYosJyBUwSq0_T046JI-1" target="psYosJyBUwSq0_T046JI-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-1" value="入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="psYosJyBUwSq0_T046JI-3" target="psYosJyBUwSq0_T046JI-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-3" value="封装成一个任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="psYosJyBUwSq0_T046JI-5" target="psYosJyBUwSq0_T046JI-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-5" value="fileurl（对应oss的地址）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-7" value="下载下来" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="psYosJyBUwSq0_T046JI-9" target="psYosJyBUwSq0_T046JI-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-9" value="页面上点击下载后" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="psYosJyBUwSq0_T046JI-10" target="psYosJyBUwSq0_T046JI-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-10" value="执行相应的逻辑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="psYosJyBUwSq0_T046JI-12" value="将这个文件直接上传到oss上面并且插入这个下载任务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
